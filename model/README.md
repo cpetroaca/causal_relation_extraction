@@ -1,0 +1,1 @@
+This folder will contain the tensorflow models after training
